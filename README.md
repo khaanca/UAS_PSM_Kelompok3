@@ -1,4 +1,4 @@
-# Respiratory Sound Classifier
+# UAS PSM Kelompok 6: Sound-based Respiratory Disease Detection using Random Forest
 
 This is a Streamlit-based web application for classifying respiratory conditions from uploaded **WAV** audio recordings. It uses a pre-trained Scikit-learn model and a custom audio preprocessing pipeline.
 
