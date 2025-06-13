@@ -7,8 +7,8 @@ This is a Streamlit-based web application for classifying respiratory conditions
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/yourusername/yourrepo.git
-    cd yourrepo
+    git clone https://github.com/khaanca/UAS_PSM_Kelompok6.git
+    cd UAS_PSM_Kelompok6
     ```
 
 2. (Optional) Create virtual environment
