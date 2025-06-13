@@ -1,1 +1,2 @@
-# UAS_PSM_Kelompok3
+# Random Forest
+This branch only contains machine learning using random forest.
